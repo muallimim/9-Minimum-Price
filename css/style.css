@@ -1,3 +1,22 @@
 body{
     background-color: bisque;
 }
+
+input[type=text]{
+    background-color: darkkhaki;
+    color: white;
+    font-size: 34px;
+    font-weight: bold;
+    border: none;
+    margin: 10px;
+    border-bottom: 2px solid blue;
+    text-align: center;
+}
+
+
+#result{
+    margin-top: 30px;
+    font-size: 44px;
+    color: blueviolet;
+    font-weight: 900;
+}
